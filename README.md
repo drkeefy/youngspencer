@@ -1,6 +1,6 @@
 # Young Spencer
 ![GitHub Repo stars](https://img.shields.io/github/stars/drkeefy/youngspencer?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/youngspencer?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/drkeefy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/youngspencer?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/drkeefy/youngspencer)
 
@@ -11,6 +11,10 @@
 ---
 # Young Spencer
 is a Houston rapper and upcoming underground artist!
+
+Join his Discord for updates:
+
+https://discord.gg/7EPBMZuMs3
 
 
 
